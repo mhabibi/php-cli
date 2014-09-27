@@ -3,7 +3,7 @@
  * php command lind interface helper
  * 
  * @author Mohamad Mehdi Habibi (i@mhabibi.net)
- * @license MIT Lisence
+ * @license MIT License
  * @link http://github.com/mm-habibi/php-cli/
  *
  */
