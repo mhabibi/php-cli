@@ -4,7 +4,7 @@
  * 
  * @author Mohamad Mehdi Habibi (i@mhabibi.net)
  * @license MIT Lisence
- * @link http://github.com/mm-habibi/php_cli/
+ * @link http://github.com/mm-habibi/php-cli/
  *
  */
 class Cli {
